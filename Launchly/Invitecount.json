@@ -1,4 +1,24 @@
 {
-  "users": {},
-  "invites": {}
+  "users": {
+    "1173579572386742292": {
+      "name": "282671_",
+      "invitedBy": "1477672979272831089",
+      "joinedAt": 1791790271176,
+      "joinedAtReadable": "2026-10-12 10:31:11",
+      "left": false,
+      "code": "Y4fKxfE2D"
+    }
+  },
+  "invites": {
+    "1477672979272831089": {
+      "name": "_hommie_00",
+      "count": 1,
+      "members": {
+        "1173579572386742292": {
+          "name": "282671_",
+          "joinedAtReadable": "2026-10-12 10:31:11"
+        }
+      }
+    }
+  }
 }
