@@ -23,12 +23,20 @@
       "joinedAtReadable": "2026-10-12 20:44:40",
       "left": false,
       "code": "Yyq5QV3U3g"
+    },
+    "1502310330355814563": {
+      "name": "arnavjr0803",
+      "invitedBy": "1477672979272831089",
+      "joinedAt": 1792567968881,
+      "joinedAtReadable": "2026-10-21 10:32:48",
+      "left": false,
+      "code": "Y4fKxfE2D"
     }
   },
   "invites": {
     "1477672979272831089": {
       "name": "_hommie_00",
-      "count": 3,
+      "count": 4,
       "members": {
         "1173579572386742292": {
           "name": "282671_",
@@ -41,6 +49,10 @@
         "1114914561326333994": {
           "name": "veera_deva",
           "joinedAtReadable": "2026-10-12 20:44:40"
+        },
+        "1502310330355814563": {
+          "name": "arnavjr0803",
+          "joinedAtReadable": "2026-10-21 10:32:48"
         }
       }
     }
